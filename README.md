@@ -11,7 +11,7 @@ Bütün yazılımlar test edilmemiştir. Daha fazla detaya üstteki linkteki say
 
 # Özel Yazılım Oluşturma
 
-Kendi Marlin konfigürasyonunuzu yapmak isterseniz BIGTREETECH!in konfigüre etmiş olduğu Marlin'i kullanabilirsiniz. Bu Marlin bu repo'daki "BIGTREETECH tarafından derlenmiş dosyalar" klasörü içerisinde mevcut. Ancak tavsiyem orijinal repoda(bigtreetech/BIGTREETECH-SKR-mini-E3) bulunan Marlin'i kullanmanız.
+Kendi Marlin konfigürasyonunuzu yapmak isterseniz BIGTREETECH'in konfigüre etmiş olduğu Marlin'i kullanabilirsiniz. Bu Marlin bu repo'daki "BIGTREETECH tarafından derlenmiş dosyalar" klasörü içerisinde mevcut. Ancak tavsiyem orijinal repoda(bigtreetech/BIGTREETECH-SKR-mini-E3) bulunan Marlin'i kullanmanız.
 
 Marlin konfigürasyonunuzu nasıl yapabileceğinize dair detaylar web sitemdeki yazıda mevcut.
 
